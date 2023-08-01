@@ -17,7 +17,7 @@ This project is a simple real-time collaborative text editor, similar to Google 
 1. Clone this repository:
 
 ```bash
-git clone <your-github-repo-url>
+git clone 
 ```
 
 2. Install the dependencies for the server:
@@ -70,4 +70,3 @@ Finally, the application currently lacks any form of user authentication or sess
 
 ---
 
-Please replace `<your-github-repo-url>` with the URL of your GitHub repository. Remember to also provide instructions on how to build and deploy the application if you've set that up.
