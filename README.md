@@ -31,7 +31,6 @@ npm install
 
 ```bash
 cd ../client
-npm install --legacy-peer-deps @material-ui/core
 npm install
 ```
 
@@ -48,6 +47,7 @@ npm start
 
 ```bash
 cd client
+npm install --legacy-peer-deps @material-ui/core
 npm start
 ```
 
