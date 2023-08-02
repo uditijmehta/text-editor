@@ -14,7 +14,7 @@ This project is a simple real-time collaborative text editor, similar to Google 
 
 ### Installation
 
-1. Clone this repository:
+1. Clone this repository (master branch):
 
 ```bash
 git clone 
